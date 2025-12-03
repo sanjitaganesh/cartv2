@@ -1,3 +1,4 @@
+alert("JS loaded");
 const items=[
     {price:10,qty:1},
     {price:15,qty:1}
