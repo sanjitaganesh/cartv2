@@ -20,5 +20,5 @@ A shopping cart built using HTML, CSS, and vanilla JavaScript with dynamic quant
 - Recalculating values dynamically instead of patching totals
 
 ## Live Demo
-Open https://sanjitaganesh.github.io/simple-cart/
+Open https://sanjitaganesh.github.io/cartv2/
  in your browser to try it out.
