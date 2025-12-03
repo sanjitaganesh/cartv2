@@ -10,7 +10,7 @@ function updateTotal(){
         total+=item.qty*item.price;
    }
 
-   items.forEach((item, index)=>{document.getElementById(qty-${index}).textContent=item.qty;
+   items.forEach((item, index)=>{document.getElementById(`qty-${index}`).textContent=item.qty;
 });
    document.getElementById("total").textContent=total.toFixed(2);
 }
